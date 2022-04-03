@@ -1,0 +1,1 @@
+export const NUMBER_OF_SELECTION_BOXES = 4;
